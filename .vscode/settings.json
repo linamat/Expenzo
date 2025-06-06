@@ -1,0 +1,11 @@
+{
+  "dart.flutterSdkPath": ".fvm/versions/3.32.0",
+  "build-runner.flutterPath": ".fvm/flutter_sdk/bin/flutter",
+  "search.exclude": {
+    "**/.fvm": true
+  },
+  "files.watcherExclude": {
+    "**/.fvm": true
+  },
+  "java.configuration.updateBuildConfiguration": "automatic"
+}
