@@ -12,7 +12,7 @@ A modern and intuitive expense tracking application built with Flutter, helping 
 
 ## 📸 Screenshots
 
-<img width="300" src="https://github.com/user-attachments/assets/1542f6e5-3ed7-4ba1-a97e-ee66dd087e75" />
+<img width="300" src="https://github.com/user-attachments/assets/98afb649-211e-496a-a35a-1b74ecfa810e" />
 <img width="300" src="https://github.com/user-attachments/assets/97cb2e90-9b38-41ed-afc7-df2ed1dd0537" />
 <img width="300" src="https://github.com/user-attachments/assets/664cb5a2-5f6e-4c13-9c04-58ff239e0fc6" />
 
